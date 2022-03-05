@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_ID = 'virtual-anchor-319409'
+        PROJECT_ID = 'groovy-smithy-343111'
         GCP_SA = 'myfirstproject'
     }
     stages {
