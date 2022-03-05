@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         PROJECT_ID = 'groovy-smithy-343111'
-        GCP_SA = 'myfirstproject'
+        GCP_SA = 'paypal-paypal'
     }
     stages {
 
